@@ -9,9 +9,11 @@
         <entry key="..\:/Users/Ivan Migal/AndroidStudioProjects/BogApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/Ivan Migal/AndroidStudioProjects/BogApp/app/src/main/res/layout/activity_main_screen.xml" value="0.31354166666666666" />
         <entry key="..\:/Users/Ivan Migal/AndroidStudioProjects/BogApp/app/src/main/res/layout/activity_task_test.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Ivan Migal/AndroidStudioProjects/BogApp/app/src/main/res/layout/fragment_dictionary.xml" value="0.5541666666666667" />
         <entry key="..\:/Users/Ivan Migal/AndroidStudioProjects/BogApp/app/src/main/res/layout/fragment_forgot_password.xml" value="0.5541666666666667" />
         <entry key="..\:/Users/Ivan Migal/AndroidStudioProjects/BogApp/app/src/main/res/layout/fragment_login.xml" value="0.33" />
         <entry key="..\:/Users/Ivan Migal/AndroidStudioProjects/BogApp/app/src/main/res/layout/fragment_registration.xml" value="0.33" />
+        <entry key="..\:/Users/Ivan Migal/AndroidStudioProjects/BogApp/app/src/main/res/layout/fragment_test_task.xml" value="0.5541666666666667" />
         <entry key="..\:/Users/Ivan Migal/AndroidStudioProjects/BogApp/app/src/main/res/layout/popup.xml" value="0.5541666666666667" />
       </map>
     </option>

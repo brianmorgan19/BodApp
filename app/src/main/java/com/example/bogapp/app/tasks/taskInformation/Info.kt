@@ -5,8 +5,6 @@ import com.example.bogapp.app.Models.TaskTestModel
 import com.example.bogapp.app.tasks.taskTest
 
 class Info() {
-
-
     fun getQuestions(): ArrayList<TaskTestModel> {
 
         val tasks = ArrayList<TaskTestModel>()
