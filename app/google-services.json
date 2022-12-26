@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "122504693465",
+    "project_id": "bogapp-74e37",
+    "storage_bucket": "bogapp-74e37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122504693465:android:7c5c0c09386da9364160c8",
+        "android_client_info": {
+          "package_name": "com.example.bogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122504693465-58ck1nitq1oka1dd6ctnr8nn9rn10ut9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5e43EdYH6xNfDHgw0ADpLOiSO-NugCNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122504693465-58ck1nitq1oka1dd6ctnr8nn9rn10ut9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
